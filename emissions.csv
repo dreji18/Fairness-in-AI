@@ -1,2 +1,0 @@
-timestamp,experiment_id,project_name,duration,emissions,energy_consumed,country_name,country_iso_code,region,on_cloud,cloud_provider,cloud_region
-2021-12-05T09:02:57,dd6367c6-7d9f-4b1d-bd4d-1cbfeb4b83e9,classification model,10216.00603,0.319355245,0.51260874,United Kingdom,GBR,England,Y,azure,uksouth
