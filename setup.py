@@ -28,7 +28,7 @@ def readme():
 
 setup(
     name="Dbias",
-    version="0.0.5",
+    version="0.0.6",
     description="Detect, Recognize and de-bias textual data.",
     long_description=readme(),
     long_description_content_type="text/markdown",
