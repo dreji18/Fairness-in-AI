@@ -12,11 +12,36 @@ pip install https://huggingface.co/d4data/en_pipeline/resolve/main/en_pipeline-a
 
 ## Usage
 
+To de-bias a news article
 ```python
 from Dbias.text_debiasing import * 
 
 # returns unbiased recommendations for a given sentence fragment.
-run("Nevertheless, Trump and other Republicans have tarred the protests as havens for terrorists intent on destroying property.")
+run("Billie Eilish issues apology for mouthing an anti-Asian derogatory term in a resurfaced video.")
+```
+
+To Classify a news article whether it's biased or not
+```python
+from Dbias.bias_classification import *
+
+# returns classification label for a given sentence fragment.
+classifier(text_input)("Nevertheless, Trump and other Republicans have tarred the protests as havens for terrorists intent on destroying property.")
+```
+
+To Recognize the biased words/phrases
+```python
+from Dbias.bias_recognition import *
+
+# returns extracted biased entities from a given sentence fragment
+recognizer("Christians should make clear that the perpetuation of objectionable vaccines and the lack of alternatives is a kind of coercion.")
+```
+
+To Mask out the biased portions of a given sentence fragment
+```python
+from Dbias.bias_masking import *
+
+# returns extracted biased entities from a given sentence fragment
+masking("The fact that the abortion rate among American blacks is far higher than the rate for whites is routinely chronicled and mourned.")
 ```
 
 ## About

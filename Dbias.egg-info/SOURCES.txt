@@ -1,6 +1,9 @@
 README.md
 setup.py
 Dbias/__init__.py
+Dbias/bias_classification.py
+Dbias/bias_masking.py
+Dbias/bias_recognition.py
 Dbias/text_debiasing.py
 Dbias.egg-info/PKG-INFO
 Dbias.egg-info/SOURCES.txt

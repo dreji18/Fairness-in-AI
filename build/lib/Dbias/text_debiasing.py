@@ -6,6 +6,8 @@ Created on Tue Dec 21 11:09:09 2021
 """
 
 # loading all the packages
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import pandas as pd
 import requests
 import numpy as np
