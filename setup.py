@@ -26,6 +26,15 @@ def readme():
 #with open("requirements-optional.txt") as f:
 #    optional_required = f.read().splitlines()
 
+
+base_packages = [
+    'pandas==1.2.4', 
+    'numpy==1.19.5', 
+    'spacy==3.2.1', 
+    'transformers==4.6.1', 
+    'tensorflow==2.4.1',
+]
+
 setup(
     name="Dbias",
     version="0.0.8",
@@ -44,6 +53,7 @@ setup(
     ],
     packages=find_packages(exclude=["*.tests", "*.tests.*", "tests.*", "tests"]),
     include_package_data=True,
-    install_requires=['pandas==1.2.4', 'numpy==1.19.5', 'spacy==3.2.1', 'transformers==4.6.1', 'tensorflow==2.4.1']
+    license_files=("LICENSE",),
+    install_requires=base_packages,
     #extras_require={"full": optional_required,},
 )
