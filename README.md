@@ -25,7 +25,7 @@ To Classify a news article whether it's biased or not
 from Dbias.bias_classification import *
 
 # returns classification label for a given sentence fragment.
-classifier(text_input)("Nevertheless, Trump and other Republicans have tarred the protests as havens for terrorists intent on destroying property.")
+classifier("Nevertheless, Trump and other Republicans have tarred the protests as havens for terrorists intent on destroying property.")
 ```
 
 To Recognize the biased words/phrases
