@@ -2,6 +2,11 @@ Detecting Bias and ensuring Fairness in AI solutions
 
 [![Downloads](https://static.pepy.tech/personalized-badge/dbias?period=total&units=none&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/dbias)
 
+.. image:: https://static.pepy.tech/personalized-badge/dbias?period=total&units=none&left_color=black&right_color=brightgreen&left_text=Downloads
+ :target: https://pepy.tech/project/dbias
+ 
+ https://static.pepy.tech/personalized-badge/dbias?period=total&units=none&left_color=black&right_color=brightgreen&left_text=Downloads
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Dbias.
