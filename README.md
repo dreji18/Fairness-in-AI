@@ -1,7 +1,7 @@
 Detecting Bias and ensuring Fairness in AI solutions
 
 [![Downloads](https://static.pepy.tech/personalized-badge/dbias?period=total&units=none&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/dbias)
-<a href="https://pypi.org/project/rubrix/">
+<a href="https://pypi.org/project/Dbias/">
     <img alt="CI" src="https://img.shields.io/pypi/v/rubrix.svg?style=flat-square&logo=pypi&logoColor=white">
 </a>
 
