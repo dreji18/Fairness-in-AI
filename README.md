@@ -1,6 +1,6 @@
 Detecting Bias and ensuring Fairness in AI solutions
 
-[![Downloads](https://static.pepy.tech/personalized-badge/dbias?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/dbias)
+[![Downloads](https://static.pepy.tech/personalized-badge/dbias?period=total&units=none&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/dbias)
 
 ## Installation
 
