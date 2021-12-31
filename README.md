@@ -45,6 +45,8 @@ from Dbias.bias_masking import *
 masking("The fact that the abortion rate among American blacks is far higher than the rate for whites is routinely chronicled and mourned.")
 ```
 
+Please find more examples in the notebook section.
+
 ## About
 This is a collective pipeline comprises of 3 Transformer models to de-bias/reduce amount of bias in news articles. The three models are:
 - An English sequence classification model, trained on MBAD Dataset to detect bias and fairness in sentences (news articles). This model was built on top of distilbert-base-uncased model and trained for 30 epochs with a batch size of 16, a learning rate of 5e-5, and a maximum sequence length of 512.
