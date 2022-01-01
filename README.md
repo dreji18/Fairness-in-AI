@@ -8,7 +8,7 @@ This package is used to detect and mitigate biases in NLP tasks. The model is an
 <a href="https://pypi.org/project/Dbias/">
     <img alt="CI" src="https://img.shields.io/badge/pypi-v0.0.8-orange">
 </a>
-<a href="https://pypi.org/project/Dbias/">
+<a href="https://youtu.be/Kb-cldoTMeM">
     <img alt="CI" src="https://img.shields.io/badge/Tutorial-Dbias-red">
 </a>
 
