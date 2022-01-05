@@ -28,7 +28,7 @@ To de-bias a news article
 from Dbias.text_debiasing import * 
 
 # returns unbiased recommendations for a given sentence fragment.
-run("Billie Eilish issues apology for mouthing an anti-Asian derogatory term in a resurfaced video.")
+run("Billie Eilish issues apology for mouthing an anti-Asian derogatory term in a resurfaced video.", show_plot = True)
 ```
 <img src="plots/bias probability plot.png" alt="drawing" />
 
