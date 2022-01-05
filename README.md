@@ -30,6 +30,7 @@ from Dbias.text_debiasing import *
 # returns unbiased recommendations for a given sentence fragment.
 run("Billie Eilish issues apology for mouthing an anti-Asian derogatory term in a resurfaced video.")
 ```
+<img src="plots/bias probability plot.png" alt="drawing" width="200" />
 
 To Classify a news article whether it's biased or not
 ```python
