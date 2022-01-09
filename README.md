@@ -18,8 +18,9 @@ This package is used to detect and mitigate biases in NLP tasks. The model is an
 |   |   |   |   |   |
 
 |Author|Deepak John Reji, Shaina Raza|  |  |  |
+|---|---|
 |Pre-print|https://www.researchgate.net/publication/357635427_Dbias_-Detecting_Bias_and_Ensuring_Fairness_in_AI_solutions|
-|---|---|---|---|---|
+|---|---|
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
