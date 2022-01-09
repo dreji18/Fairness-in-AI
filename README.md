@@ -12,6 +12,14 @@ This package is used to detect and mitigate biases in NLP tasks. The model is an
     <img alt="CI" src="https://img.shields.io/badge/Tutorial-Dbias-red">
 </a>
 
+| Feature  | Output  |
+|---|---|
+| Text Debiasing  | Returns debiased news recommendations with bias probability |
+| Bias Classification | Classifies whether a news article is biased or not with probability |
+| Bias Words/Phrases Recognition | Extract Biased words or phrases from the news fragment |
+| Bias masking  | Returns the news fragment with biased words masked out |
+| Quickstart Tutorial  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ysyx4wJjQ6TSRTugCWseSXJnxv4-vZVE) |
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Dbias.
@@ -65,7 +73,7 @@ This is a collective pipeline comprises of 3 Transformer models to de-bias/reduc
 - A Masked Language model, which is a Pretrained model on English language using a masked language modeling (MLM) objective.
 
 # Author
-This model is part of the Research topic "Bias and Fairness in AI" conducted by Deepak John Reji, Shaina Raza. If you use this work (code, model or dataset), 
+This model is part of the Research topic "Bias and Fairness in AI" conducted by Deepak John Reji, Shaina Raza, Chen Ding If you use this work (code, model or dataset), 
 
 Please star at:
 Bias & Fairness in AI, (2022), GitHub repository, https://github.com/dreji18/Fairness-in-AI
