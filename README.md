@@ -18,7 +18,6 @@ This package is used to detect and mitigate biases in NLP tasks. The model is an
 | Bias Classification | Classifies whether a news article is biased or not with probability |
 | Bias Words/Phrases Recognition | Extract Biased words or phrases from the news fragment |
 | Bias masking  | Returns the news fragment with biased words masked out |
-| Quickstart Tutorial  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ysyx4wJjQ6TSRTugCWseSXJnxv4-vZVE) |
 
 ## Installation
 
