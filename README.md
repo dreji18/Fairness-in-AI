@@ -1,6 +1,4 @@
-## Dbias
-
-Detecting Bias and ensuring Fairness in AI solutions
+## Dbias - Detecting Bias and ensuring Fairness in AI solutions
 
 This package is used to detect and mitigate biases in NLP tasks. The model is an end-to-end framework that takes data into a raw form, preprocess it, detect the various types of biases and mitigate them. The output is the text that is free from bias.
 
