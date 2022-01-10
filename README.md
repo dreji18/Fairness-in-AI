@@ -2,7 +2,7 @@
 
 This package is used to detect and mitigate biases in NLP tasks. The model is an end-to-end framework that takes data into a raw form, preprocess it, detect the various types of biases and mitigate them. The output is the text that is free from bias.
 
-[![Downloads]([![Downloads](https://pepy.tech/badge/dbias)](https://pepy.tech/project/dbias))](https://pepy.tech/project/dbias)
+[![Downloads]([![Downloads](https://pepy.tech/badge/dbias)](https://pepy.tech/project/dbias)](https://pepy.tech/project/dbias)
 <a href="https://pypi.org/project/Dbias/">
     <img alt="CI" src="https://img.shields.io/badge/pypi-v0.1.2-orange">
 </a>
