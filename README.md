@@ -4,7 +4,7 @@ This package is used to detect and mitigate biases in NLP tasks. The model is an
 
 [![Downloads](https://static.pepy.tech/personalized-badge/dbias?period=total&units=international_system&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/dbias)
 <a href="https://pypi.org/project/Dbias/">
-    <img alt="CI" src="https://img.shields.io/badge/pypi-v0.1.2-orange">
+    <img alt="CI" src="https://img.shields.io/badge/pypi-v0.1.3-orange">
 </a>
 <a href="https://youtu.be/Kb-cldoTMeM">
     <img alt="CI" src="https://img.shields.io/badge/Tutorial-Dbias-red">
