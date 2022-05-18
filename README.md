@@ -75,6 +75,8 @@ Please star at:
 
 Bias & Fairness in AI, (2022), GitHub repository, https://github.com/dreji18/Fairness-in-AI
 
+please cite our [**paper**](https://www.researchsquare.com/article/rs-1356281/v1.pdf) 
+ 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) License
