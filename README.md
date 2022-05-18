@@ -65,15 +65,16 @@ Please find more examples in the [**notebook section**](https://github.com/dreji
 
 ## About
 This is a collective pipeline comprises of 3 Transformer models to de-bias/reduce amount of bias in news articles. The three models are:
-- An English sequence classification model, trained on MBIC Dataset to detect bias and fairness in sentences (news articles). This model was built on top of distilbert-base-uncased model and trained for 30 epochs with a batch size of 16, a learning rate of 5e-5, and a maximum sequence length of 512.
+- An English sequence classification model, trained on the [**MBIC Dataset**](https://github.com/Media-Bias-Group/Neural-Media-Bias-Detection-Using-Distant-Supervision-With-BABE), to detect bias and fairness in sentences (news articles). This model was built on top of distilbert-base-uncased model and trained for 30 epochs with a batch size of 16, a learning rate of 5e-5, and a maximum sequence length of 512.
 - An Entity Recognition model, which is is trained on MBIC Dataset to recognize the biased word/phrases in a sentence. This model was built on top of roberta-base offered by Spacy transformers.
 - A Masked Language model, which is a Pretrained model on English language using a masked language modeling (MLM) objective.
 
 # Author
-This model is part of the Research topic "Bias and Fairness in AI" conducted by Deepak John Reji, Shaina Raza, Chen Ding If you use this work (code, model or dataset), 
-
+This model is part of the Research topic "Bias and Fairness in AI" conducted by Deepak John Reji, Shaina Raza, Chen Ding If you use this work (code, model or data), 
 Please star at:
+
 Bias & Fairness in AI, (2022), GitHub repository, https://github.com/dreji18/Fairness-in-AI
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) License
