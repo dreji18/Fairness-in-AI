@@ -71,12 +71,9 @@ This is a collective pipeline comprises of 3 Transformer models to de-bias/reduc
 
 # Author
 This model is part of the Research topic "Bias and Fairness in AI" conducted by Deepak John Reji, Shaina Raza, Chen Ding If you use this work (code, model or data), 
-Please star at:
+Please cite our [**Research Paper**](https://arxiv.org/abs/2208.05777) 
 
-Bias & Fairness in AI, (2022), GitHub repository, https://github.com/dreji18/Fairness-in-AI
-
-please cite our [**paper**](https://www.researchsquare.com/article/rs-1356281/v1.pdf) 
- 
+and please star at: Bias & Fairness in AI, (2022), GitHub repository, https://github.com/dreji18/Fairness-in-AI
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) License
