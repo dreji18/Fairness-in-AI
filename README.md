@@ -9,6 +9,9 @@ This package is used to detect and mitigate biases in NLP tasks. The model is an
 <a href="https://youtu.be/Kb-cldoTMeM">
     <img alt="CI" src="https://img.shields.io/badge/Tutorial-Dbias-red">
 </a>
+<a href="https://youtu.be/Pb_nbveVWQg">
+    <img alt="CI" src="https://img.shields.io/badge/Research%20Paper-Video-green">
+</a>
 
 | Feature  | Output  |
 |---|---|
