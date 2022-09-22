@@ -2,10 +2,6 @@
 
 This package is used to detect and mitigate biases in NLP tasks. The model is an end-to-end framework that takes data into a raw form, preprocess it, detect the various types of biases and mitigate them. The output is the text that is free from bias.
 
-For more details, we would suggest reading the paper
-- https://link.springer.com/article/10.1007/s41060-022-00359-4 - International Journal of Data Science and Analytics (2022)
-- https://arxiv.org/abs/2207.03938 - KDD 2022 Workshop on Data Science and Artificial Intelligence for Responsible Recommendations (DS4RRS)
-
 [![Downloads](https://static.pepy.tech/personalized-badge/dbias?period=total&units=international_system&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/dbias)
 <a href="https://pypi.org/project/Dbias/">
     <img alt="CI" src="https://img.shields.io/badge/pypi-v0.1.3-orange">
@@ -16,6 +12,10 @@ For more details, we would suggest reading the paper
 <a href="https://youtu.be/Pb_nbveVWQg">
     <img alt="CI" src="https://img.shields.io/badge/Research%20Paper-Video-green">
 </a>
+
+For more details, we would suggest reading the paper
+- https://link.springer.com/article/10.1007/s41060-022-00359-4 - International Journal of Data Science and Analytics (2022)
+- https://arxiv.org/abs/2207.03938 - KDD 2022 Workshop on Data Science and Artificial Intelligence for Responsible Recommendations (DS4RRS)
 
 | Feature  | Output  |
 |---|---|
