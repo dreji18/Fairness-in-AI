@@ -1,6 +1,8 @@
 @article{raza2022dbias,
-  title={Dbias: Detecting biases and ensuring Fairness in news articles},
+  title={Dbias: detecting biases and ensuring fairness in news articles},
   author={Raza, Shaina and Reji, Deepak John and Ding, Chen},
-  url = {https://github.com/dreji18/Fairness-in-AI},
-  year={2022}
+  journal={International Journal of Data Science and Analytics},
+  pages={1--21},
+  year={2022},
+  publisher={Springer}
 }
